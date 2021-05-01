@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Antocoon.dir/main.cpp.o CMakeFiles/Antocoon.dir/social.cpp.o CMakeFiles/Antocoon.dir/menu.cpp.o CMakeFiles/Antocoon.dir/tree.cpp.o  -o Antocoon 

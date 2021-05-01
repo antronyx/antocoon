@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Antocoon_v1_0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Antocoon_v1_0">
+				<Option output="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Antocoon_v1_0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 Antocoon_v1_0"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Antocoon_v1_0/fast">
+				<Option output="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Antocoon_v1_0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 Antocoon_v1_0/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/CMakeLists.txt">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Antocoon.cbp">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/CMakeCache.txt">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/Makefile">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/cmake_install.cmake">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/log.dat">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/cmake-build-debug/users.dat">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/main.cpp">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/menu.cpp">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/menu.h">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/social.cpp">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/social.h">
+			<Option target="Antocoon_v1_0"/>
+		</Unit>
+		<Unit filename="/home/antronyx/Scrivania/Antocoon_v1.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

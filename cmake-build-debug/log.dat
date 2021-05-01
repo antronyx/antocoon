@@ -1,0 +1,29 @@
+mrrobot,semplice,{nome:Elliot,cognome:Alderson,data:05/10/1985,citta:New York}
+elbarto,semplice,{nome:Bart,cognome:Simpson,data:13/07/1991,citta:Springfield}
+pinco55,semplice,{nome:Mario,cognome:Rossi,data:15/02/2000,citta:Roma}
+potus,semplice,{nome:Donald,cognome:Trump,data:02/11/1945,citta:New York}
+dave,semplice,{nome:David,cognome:Gilmour,data:05/01/1946,citta:Cambridge}
+resilvio,semplice,{nome:Svaginatore,cognome:Berlusconi,data:04/06/1938,religione:figa,citta:Milano}
+ironman,semplice,{nome:Anthony,cognome:Stark,data:21/10/1979,citta:San Diego}
+jhon76,semplice,{nome:Jhon,cognome:Elkan,data:18/04/1976,citta:New York}
+sergio52,semplice,{nome:Sergio,cognome:Marchionne,data:05/12/1952,citta:Chieti}
+jeffbez,semplice,{nome:Jeff,cognome:Bezos,data:03/03/1964,citta:Albuquerque}
+fca,azienda,{nome:Fiat,data:11/07/1899,sedefiscale:Amsterdam,sedeoperativa:Torino,codice:2564851258,tipologia:Automotive}
+exor,azienda,{nome:Exor,data:06/08/1929,sedefiscale:Amsterdam,sedeoperativa:Amsterdam,codice:4589756425,tipologia:Finanza}
+jfc,azienda,{nome:Juventus,data:02/06/1897,sedefiscale:Torino,sedeoperativa:Torino,codice:5487566584,tipologia:Sport}
+ferrero,azienda,{nome:Ferrero,data:18/06/1946,sedefiscale:Alba,sedeoperativa:Alba,codice:5588459685,tipologia:Alimentare}
+kinder,azienda,{nome:Kinder,data:15/04/1986,sedefiscale:Alba,sedeoperativa:Alba,codice:7785498585,tipologia:Alimentare}
+estathe,azienda,{nome:EstaThe,data:15/04/1966,sedefiscale:Alba,sedeoperativa:Alba,codice:5588165585,tipologia:Alimentare}
+tictac,azienda,{nome:TicTac,data:01/06/1986,sedefiscale:Alba,sedeoperativa:Alba,codice:5599959685,tipologia:Alimentare}
+nutella,azienda,{nome:Nutella,data:11/03/1948,sedefiscale:Alba,sedeoperativa:Alba,codice:5588412385,tipologia:Alimentare}
+barilla,azienda,{nome:Barilla,data:28/09/1977,sedefiscale:Parma,sedeoperativa:Parma,codice:1088412385,tipologia:Alimentare}
+mulino,azienda,{nome:Mulino Bianco,data:11/03/1978,sedefiscale:Parma,sedeoperativa:Parma,codice:5088412348,tipologia:Alimentare}
+voiello,azienda,{nome:Voiello,data:01/12/1879,sedefiscale:Napoli,sedeoperativa:Napoli,codice:1308412378,tipologia:Alimentare}
+pavesi,azienda,{nome:Pavesi,data:11/03/1948,sedefiscale:Novara,sedeoperativa:Novara,codice:6588002385,tipologia:Alimentare}
+amazon,azienda,{nome:Amazon,data:28/05/1994,sedefiscale:Seattle,sedeoperativa:Seattle,codice:1088785085,tipologia:Vario}
+aws,azienda,{nome:Amazon Web Services,data:21/08/2012,sedefiscale:New York,sedeoperativa:Seattle,codice:1138000085,tipologia:Cloud Computing}
+whfood,azienda,{nome:Whoole Food,data:20/09/1980,sedefiscale:Austin,sedeoperativa:Austin,codice:1088033385,tipologia:Alimentare}
+audible,azienda,{nome:Audible,data:15/11/1995,sedefiscale:Newark,sedeoperativa:Newark,codice:1088009995,tipologia:Audiolibri}
+
+
+

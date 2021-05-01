@@ -1,0 +1,3 @@
+/home/antronyx/Scrivania/antocoon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/antronyx/Scrivania/antocoon/cmake-build-debug/CMakeFiles/Antocoon.dir
+/home/antronyx/Scrivania/antocoon/cmake-build-debug/CMakeFiles/edit_cache.dir
