@@ -1,0 +1,63 @@
+mrrobot,semplice,{nome:Elliot,cognome:Alderson,data:05/10/1985,citta:New York,sesso:M}
+elbarto,semplice,{nome:Bart,cognome:Simpson,data:13/07/1991,citta:Springfield,sesso:M}
+pinco55,semplice,{nome:Mario,cognome:Rossi,data:15/02/2000,citta:Roma,sesso:M}
+queenangela,semplice,{nome:Angela,cognome:Merkel,data:02/02/1950,citta:Berlino,sesso:F}
+godangela,semplice,{nome:Piero,cognome:Angela,data:06/02/1930,citta:Torino,sesso:M}
+ingr,semplice,{nome:Riccardo,cognome:Rossi,data:16/07/1990,citta:Torino,sesso:M}
+lili,semplice,{nome:Lili,cognome:Gruber,data:19/06/1964,citta:Bolzano,sesso:F}
+marges,semplice,{nome:Marge,cognome:Bouvier,data:27/03/1968,citta:Springfield,sesso:F}
+homerofficial,semplice,{nome:Homer,cognome:Simpson,data:10/12/1964,citta:Springfield,sesso:M}
+lisas,semplice,{nome:Lisa,cognome:Simpson,data:01/04/1987,citta:Springfield,sesso:F}
+meggies,semplice,{nome:Margaret,cognome:Simpson,data:11/11/1997,citta:Springfield,sesso:F}
+monas,semplice,{nome:Mona,cognome:Simpson,data:18/06/1944,citta:Springfield,sesso:F}
+abes,semplice,{nome:Abraham,cognome:Simpson,data:27/03/1942,citta:Springfield,sesso:M}
+joeb,semplice,{nome:Jhon,cognome:Bouvier,data:01/04/1943,citta:Springfield,sesso:M}
+elib,semplice,{nome:Elisa,cognome:Bouvier,data:15/09/1945,citta:Springfield,sesso:F}
+potus,semplice,{nome:Donald,cognome:Trump,data:02/11/1945,citta:New York,partito:Repubblican Party,religione:Cristiano,sesso:M}
+dave,semplice,{nome:David,cognome:Gilmour,data:05/01/1946,citta:Cambridge,sesso:M}
+dino,semplice,{nome:Dino,cognome:Cozio,data:15/11/2005,citta:Imola,sesso:M}
+frank,semplice,{nome:Francesco,cognome:Rossi,data:02/10/1944,citta:Cosenza,sesso:M}
+toto,semplice,{nome:Salvatore,cognome:Lombardo,data:22/07/1973,citta:Napoli,sesso:M}
+pino,semplice,{nome:Pino,cognome:Insegno,data:24/02/1950,citta:Roma,sesso:M}
+al,semplice,{nome:Alberto,cognome:Bellardone,data:04/04/1966,citta:Torino,sesso:M}
+yangwan,semplice,{nome:Alessio,cognome:Gualdi,data:12/05/2001,citta:Caltanissetta,sesso:M}
+matem,semplice,{nome:Marco,cognome:Temone,data:09/04/1996,citta:Camerino,sesso:M}
+ilfa,semplice,{nome:Damiano,cognome:Falzone,data:23/11/1996,citta:Verona,sesso:M}
+ioarr,semplice,{nome:Ioanne,cognome:Martin,data:26/10/1984,citta:Brusselles,sesso:M}
+juli,semplice,{nome:Julia,cognome:Tucek,data:15/02/1997,citta:Praga,sesso:F}
+avicii,semplice,{nome:Tim,cognome:Bergling,data:01/05/1991,citta:Stoccolma,sesso:M}
+acelentano,semplice,{nome:Adriano,cognome:Celentano,data:08/01/1937,citta:Milano,sesso:M}
+fmercury,semplice,{nome:Farrokh,cognome:Bulsara,citta:Londra,data:05/09/1946,religione:Zoroastriana,sesso:M}
+gimmyp,semplice,{nome:James,cognome:Page,data:22/10/1945,citta:Londra,sesso:M}
+mayqueen,semplice,{nome:Brian,cognome:May,data:11/11/1950,citta:Londra,sesso:M}
+angusyoung58,semplice,{nome:Angus,cognome:Young,data:06/03/1958,citta:Sydney,sesso:M}
+malcom_acdc,semplice,{nome:Malcom,cognome:Young,data:26/09/1953,citta:Sydney,sesso:M}
+resilvio,semplice,{nome:Silvio,cognome:Berlusconi,data:04/06/1938,citta:Milano,sesso:M}
+ironman,semplice,{nome:Anthony,cognome:Stark,data:21/10/1979,citta:San Diego,sesso:M}
+jhon76,semplice,{nome:Jhon,cognome:Elkan,data:18/04/1976,citta:New York,universita:Politecnico Di Torino,sesso:M}
+marghelamb,semplice,{nome:Margherita,cognome:Agnelli,data:26/10/1955,citta:Torino,sesso:F}
+elkusa,semplice,{nome:Alain,cognome:Elkan,data:11/03/1950,citta:New York,sesso:M}
+marellacara,semplice,{nome:Marella,cognome:Caracciolo,data:13/01/1927,citta:Napoli,sesso:F}
+lavvocato,semplice,{nome:Gianni,cognome:Agnelli,data:11/09/1921,citta:Torino,sesso:M}
+sergio52,semplice,{nome:Sergio,cognome:Marchionne,data:05/12/1952,citta:Chieti,sesso:M}
+jeffbez,semplice,{nome:Jeff,cognome:Bezos,data:03/03/1964,citta:Albuquerque,sesso:M}
+fca,azienda,{nome:Fiat,data:11/07/1899,sedefiscale:Amsterdam,sedeoperativa:Torino,codice:2564851258,tipologia:Automotive}
+exor,azienda,{nome:Exor,data:06/08/1929,sedefiscale:Amsterdam,sedeoperativa:Amsterdam,codice:4589756425,tipologia:Finanza}
+ferrari,azienda,{nome:Ferrari,data:28/02/1948,sedefiscale:Modena,sedeoperativa:Maranello,codice:4999756425,tipologia:Automotive}
+jfc,azienda,{nome:Juventus,data:02/06/1897,sedefiscale:Torino,sedeoperativa:Torino,codice:5487566584,tipologia:Sport}
+ferrero,azienda,{nome:Ferrero,data:18/06/1946,sedefiscale:Alba,sedeoperativa:Alba,codice:5588459685,tipologia:Alimentare}
+kinder,azienda,{nome:Kinder,data:15/04/1986,sedefiscale:Alba,sedeoperativa:Alba,codice:7785498585,tipologia:Alimentare}
+estathe,azienda,{nome:EstaThe,data:15/04/1966,sedefiscale:Alba,sedeoperativa:Alba,codice:5588165585,tipologia:Alimentare}
+tictac,azienda,{nome:TicTac,data:01/06/1986,sedefiscale:Alba,sedeoperativa:Alba,codice:5599959685,tipologia:Alimentare}
+nutella,azienda,{nome:Nutella,data:11/03/1948,sedefiscale:Alba,sedeoperativa:Alba,codice:5588412385,tipologia:Alimentare}
+barilla,azienda,{nome:Barilla,data:28/09/1977,sedefiscale:Parma,sedeoperativa:Parma,codice:1088412385,tipologia:Alimentare}
+mulino,azienda,{nome:Mulino Bianco,data:11/03/1978,sedefiscale:Parma,sedeoperativa:Parma,codice:5088412348,tipologia:Alimentare}
+voiello,azienda,{nome:Voiello,data:01/12/1879,sedefiscale:Napoli,sedeoperativa:Napoli,codice:1308412378,tipologia:Alimentare}
+pavesi,azienda,{nome:Pavesi,data:11/03/1948,sedefiscale:Novara,sedeoperativa:Novara,codice:6588002385,tipologia:Alimentare}
+amazon,azienda,{nome:Amazon,data:28/05/1994,sedefiscale:Seattle,sedeoperativa:Seattle,codice:1088785085,tipologia:Vario}
+aws,azienda,{nome:Amazon Web Services,data:21/08/2012,sedefiscale:New York,sedeoperativa:Seattle,codice:1138000085,tipologia:Cloud Computing}
+whfood,azienda,{nome:Whoole Food,data:20/09/1980,sedefiscale:Austin,sedeoperativa:Austin,codice:1088033385,tipologia:Alimentare}
+audible,azienda,{nome:Audible,data:15/11/1995,sedefiscale:Newark,sedeoperativa:Newark,codice:1088009995,tipologia:Audiolibri}
+musiclovers,gruppo,{nome:Music Lovers,data:12/12/2018,tipologia:Associazione Musicale,sedelegale:Roma}
+cashlovers,gruppo,{nome:Money,data:10/12/2018,sedelegale:Zurigo}
+foosrl,azienda,{nome:Foo Srl,data:18/06/1984,sedefiscale:Catanzaro,sedeoperativa:Reggio Calabria,codice:6688365085,tipologia:Aereospazio}
