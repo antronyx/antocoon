@@ -84,7 +84,7 @@ void Menu::welcomeScreen() {
     }
     cout << "       A simple c++ social analyzer" << endl << endl << endl;
     cout << endl;
-    cout << "Scrivi il comando \"esci\" per chiudere l' applicativo," << endl;
+    cout << "Scrivi il comando \"exit\" per chiudere l' applicativo," << endl;
     cout << "\"start\" per tornare al menu iniziale, \"help\" per richiedere aiuto";
     helpScreen(
             this->__menu_pos);  /*** With start command i just first set menu_pos to 0, after display a start screen and helpScreen([menu_pos=0]) ***/

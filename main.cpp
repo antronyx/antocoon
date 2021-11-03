@@ -39,6 +39,7 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 
+    cout<<"Testing UTF-8"<<endl;
     cout << LIKE << DISLIKE;
     Menu menu1;
     menu1.SetLogo("logo.txt");

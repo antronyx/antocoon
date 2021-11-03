@@ -1618,7 +1618,7 @@ void showSUser(vector<User> _to_show) {
     for (int i = 0; i < _to_show.size(); i++) {
         int j = 0;
         cout << setw(15);
-        cout << left << _to_show[i].getUsername();
+        cout << left << _to_show[i].getUsername()<<"\t";
         j++;
         if (j == 5) {
             cout << setw(0);
@@ -1635,7 +1635,7 @@ void showCUser(vector<Company> _to_show) {
     for (int i = 0; i < _to_show.size(); i++) {
         int j = 0;
         cout << setw(15);
-        cout << left << _to_show[i].getUsername();
+        cout << left << _to_show[i].getUsername()<<"\t";
         j++;
         if (j == 5) {
             cout << setw(0);
@@ -1651,7 +1651,7 @@ void showGUser(vector<Group> _to_show) {
     for (int i = 0; i < _to_show.size(); i++) {
         int j = 0;
         cout << setw(15);
-        cout << left << _to_show[i].getUsername();
+        cout << left << _to_show[i].getUsername()<<"\t";
         j++;
         if (j == 5) {
             cout << setw(0);
