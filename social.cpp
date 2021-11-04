@@ -1615,46 +1615,50 @@ string rtrim(const string &s) {
 }
 
 void showSUser(vector<User> _to_show) {
+    cout<< "Utenti di tipo Semplice:\n\n";
+    int j=0;
     for (int i = 0; i < _to_show.size(); i++) {
-        int j = 0;
-        cout << setw(15);
-        cout << left << _to_show[i].getUsername()<<"\t";
+        
+        cout << setw(16)<<right
+             << _to_show[i].getUsername();
         j++;
         if (j == 5) {
-            cout << setw(0);
             cout << "\n";
             j = 0;
         }
     }
     cout << resetiosflags(ios::left);
-    cout << endl << endl;
+    cout << endl << endl<<endl;
 }
 
 
 void showCUser(vector<Company> _to_show) {
+    cout<<"Utenti di tipo Azienda:\n\n";
+    int j=0;
     for (int i = 0; i < _to_show.size(); i++) {
-        int j = 0;
-        cout << setw(15);
-        cout << left << _to_show[i].getUsername()<<"\t";
+        
+        cout << setw(16) << right
+             << _to_show[i].getUsername();
         j++;
         if (j == 5) {
-            cout << setw(0);
+
             cout << "\n";
             j = 0;
         }
     }
     cout << resetiosflags(ios::left);
-    cout << endl << endl;
+    cout << endl << endl<<endl;
 }
 
 void showGUser(vector<Group> _to_show) {
+    cout<< "Utenti di tipo Gruppo:\n\n";
+    int j=0;
     for (int i = 0; i < _to_show.size(); i++) {
-        int j = 0;
-        cout << setw(15);
-        cout << left << _to_show[i].getUsername()<<"\t";
+        
+        cout << setw(16) <<  right
+             << _to_show[i].getUsername();
         j++;
         if (j == 5) {
-            cout << setw(0);
             cout << "\n";
             j = 0;
         }

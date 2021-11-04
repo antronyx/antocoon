@@ -677,7 +677,7 @@ void helpScreen(int help_code) {
             cout << right << "Aggiungi/rimuovi padre" << endl;
             cout << "figlio [ID]";
             cout.width(109 - strlen("amico [ID]"));
-            cout << right << "Aggiungi/rimuovi figlio/figlia " << endl;
+            cout << right << "Aggiungi/rimuovi figlio/figlia" << endl;
             break;
         case BEST_COMPANY:
             cout << endl << endl;

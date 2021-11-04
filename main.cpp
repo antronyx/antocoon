@@ -2161,7 +2161,7 @@ int main(int argc, char *argv[]) {
 
                             }/**end modify menu **/
                             if (_command == "salva") {
-                                save(Userss, CompanyObj, Groups, "users.suca", "posts.suca", "relations.suca");
+                                save(Userss, CompanyObj, Groups, "users.antocoon", "posts.antocoon", "relations.antocoon");
                                 cout << "Ho salvato i file" << endl;
                             }
 
